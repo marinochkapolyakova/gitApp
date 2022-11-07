@@ -29,12 +29,10 @@ class ViewController: UIViewController {
          */
         
         
-        // Code 3
+        // APP STORE 1
         /*
          code3
-         code3
-         code3
-         code3
+         
          */
         
     }
